@@ -25,7 +25,7 @@ const Homepage = () => {
           <div className="box-nav d-flex justify-between">
             <a href="/add-user" className="btn btn-outline-primary mb-3">
               <span className="text-gradient">
-                New User <i className="fas fa-user"></i>
+                New Employee <i className="fas fa-user"></i>
               </span>
             </a>
           </div>

@@ -49,12 +49,12 @@ const UpdateUser = () => {
           <div className="box-nav d-flex justify-between">
             <div className="filter">
               <a href="/" className="btn btn-outline-secondary">
-                <i className="fas fa-angle-double-left"></i> All Users
+                <i className="fas fa-angle-double-left"></i> All Employees
               </a>
             </div>
           </div>
           <div className="form-title text-center">
-            <h2 className="text-dark">New User</h2>
+            <h2 className="text-dark">New Employee</h2>
             <span className="">Use the below form to update the account</span>
           </div>
 
